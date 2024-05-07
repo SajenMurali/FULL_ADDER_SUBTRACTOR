@@ -96,8 +96,8 @@ assign DIFF = a ^ b ^ Bin;
 endmodule
 
 
-Developed by: VARSHA A
-RegisterNumber: 212223220121
+Developed by: SAJEN MURALI
+RegisterNumber: 212223220089
 ~~~
 
 */
